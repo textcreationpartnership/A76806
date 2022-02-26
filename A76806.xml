@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The complaint of Mary Blaithwaite widdovv; setting forth her sad condition, occasioned by the late dissolution of the Parliament, and neglect of justice ever since. Die Venris 10 Martii 1647. Ordered by the Lords in Parliament assembled, that the petition of Mary Blaithwaite, and the articles anexed, are heereby referred to Sir Edward Leche, to examine the businesse, and state the same, and make report thereof to this house with all convenient speed. Jo. Browne Cleric. Parl.</title>
+            <author>Blaithwaite, Mary.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76806</idno>
+            <idno type="STC">Wing B3129</idno>
+            <idno type="STC">Thomason E735_15</idno>
+            <idno type="STC">ESTC R206971</idno>
+            <idno type="EEBO-CITATION">99866050</idno>
+            <idno type="PROQUEST">99866050</idno>
+            <idno type="VID">166914</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166914)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E735[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The complaint of Mary Blaithwaite widdovv; setting forth her sad condition, occasioned by the late dissolution of the Parliament, and neglect of justice ever since. Die Venris 10 Martii 1647. Ordered by the Lords in Parliament assembled, that the petition of Mary Blaithwaite, and the articles anexed, are heereby referred to Sir Edward Leche, to examine the businesse, and state the same, and make report thereof to this house with all convenient speed. Jo. Browne Cleric. Parl.</title>
+                  <author>Blaithwaite, Mary.</author>
+                  <author>England and Wales. Parliament. House of Lords.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Mary Blaithwait, vviddovv.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "may 19. 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blaithwaite, Mary --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Justice, Administration of --  England --  Early works to 1800.</term>
+               <term>Clergy --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:166914:1" rendition="simple:additions"/>
+            <head>THE COMPLAINT OF <hi>MARY BLAITHWAITE</hi> WIDDOVV; Setting forth her ſad Condition, occaſioned by the late diſſolution of the Parliament, and neglect of juſtice ever ſince.</head>
+            <floatingText xml:lang="eng" type="license">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Die Veneris 10 Martii 1647.</date>
+                     </dateline>
+                  </opener>
+                  <p>Ordered by the Lords in Parliament aſſembled, that the Petition of <hi>Mary Blaithwaite,</hi> and the Articles anexed, are heereby referred to Sir <hi>Edward Leche,</hi> to examine the buſineſſe, and ſtate the ſame, and make report thereof to this houſe with all convenient ſpeed.</p>
+                  <closer>
+                     <signed>Jo. Browne Cleric. Parl.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>OH that there were but an eminent man of power that would ſtand up in the gap to iudge the fatherleſſe, and heare the cauſe of the Widdow, that I might apply my ſelfe unto him for juſtice; for I cry night and day, and groane under the burden of my oppreſſions, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd there is none to deliver mee out of the hand of the oppreſſors; which maketh my heart ſo overwhelmed with ſorrow and griefe, that I cannot <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orbeare; for my caſe depended before the late diſſolved Parliament, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey would have done me juſtice if they had not been interrupted, but now
+<pb n="2" facs="tcp:166914:2"/>my caſe is more remedileſſe then the poore Widdow, who importuned the unjuſt Judge, who neither feared God, nor reverenced man, and yet did her juſtice, but I can have none for mee; but am forced after much labour in vaine, and many a weary ſtep, to no purpoſe, to make my ſelfe a foole in Print, hoping hereby I by ſome hand, mouth, or pen, this my complaint may come to the eare of that <hi>great man,</hi> who hath taken upon him the Pro<g ref="char:EOLhyphen"/>tection of the Common wealth. &amp;c. to ſtirr him up to come forth and here the Widdowes complaint, and give reliefe unto mee and my fatherleſſe chil<g ref="char:EOLhyphen"/>dren, according unto the tenor of my Petition: a Copie whereof followeth, with the ſtate of my caſe.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Right Honorable the Parliament of the Common-wealth of England.</head>
+                        <head type="sub">The Humble Petition of <hi>Mary Blaithwaite</hi> of Sickmurther in the County of Cumberland Widdow.</head>
+                        <opener>Humbly ſhewing,</opener>
+                        <p>THat your Petitioner did exhibit her humble Petition with Ar<g ref="char:EOLhyphen"/>ticles thereunto annexed to the late Houſe of Lords, and therin did ſet forth the loſſes, ſufferings, and cruell uſage of her late huſ<g ref="char:EOLhyphen"/>band, and her ſelfe, for their fidellity to the Common wealth; by Sir <hi>Wilfred Lawſon</hi> Knight, <hi>Simon Muſgrave</hi> and <hi>Leonard Dikes</hi> Eſquires, Sir <hi>Phillip Muſgrave</hi> Barronet, <hi>Henry Pierſon</hi> and <hi>James Pierſon Attorneies, Iohn Hudſon, Michael Croplace</hi> and <hi>William Leach,</hi> all then notorious Delin<g ref="char:EOLhyphen"/>quents, which Petition was grounded upon an ordinance of the eighteenth of Auguſt 1642, wherby the well affected of the North ſhould have repera<g ref="char:EOLhyphen"/>tion of their loſſes, out of the Eſtates of the Delinquents that did the wrong; upon which ſaid Petition your Petitioner obtained an order of reference to Sir <hi>Edward Leech</hi> Knight, who iſſued out his ſummons to the ſeverall per<g ref="char:EOLhyphen"/>ſons, ſome whereof were examined, but the two Perſons who were the principall authors and actors in all your Petitioners ſufferings, did contemn and would not bee examined, by reaſon whereof and of Sir <hi>Edward Leech</hi> his death, (which happened ſoone after) the taking away of the houſe of
+<pb n="3" facs="tcp:166914:2"/>Lords, diſſolving of the late Parliament, your Petitioner could reap no bene<g ref="char:EOLhyphen"/>fit of her ſeven yeares attendance: and foraſmuch her loſſes, ſufferings and cruell uſage are ſet forth in the ſaid Articles, and for that ſhee dares not re<g ref="char:EOLhyphen"/>turne to her Countrey, and children, which is more then 250 miles diſtant hence, unleſſe ſhee be by your honors relieved and ſecured againſt the op<g ref="char:EOLhyphen"/>preſſions of the ſaid Perſons, and the others complained of, and the rather for that your Petitioner hath attended more then eleven months upon his High<g ref="char:EOLhyphen"/>neſs Proclamation or Declaration to re<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ieve the oppreſſions of the poore, but could never g<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t an anſwer from Mr. <hi>Sadler</hi> one of the Maſters of Requeſts, nor from Mr. <hi>Ha<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ter</hi> to whom M<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. <hi>Saddler</hi> did deliver the Petitioners Pe<g ref="char:EOLhyphen"/>tition, neither any anſwer to the Petition ſhe delivered to Major Generall <hi>Lambert,</hi> to preſent to his Highneſſe, and now ſhe is remedileſs but by your Honors.</p>
+                        <p>
+                           <hi>May it therefore pleaſe your Honors to referre your Petitioners greivances to ſome Committee, or other fit Perſons whom your wiſedomes ſhall apoint to be exa<g ref="char:EOLhyphen"/>mined and reported, that thereby ſhee may receive a com<g ref="char:EOLhyphen"/>fortable iſſue of her long attendance, and returne to her family with reliefe and ſecurity.</hi>
+                        </p>
+                        <p>And ſhe will dayly pray &amp;c.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <div type="part">
+               <head>The ſtate of my Caſe is as followeth.</head>
+               <p>I Comming from <hi>London</hi> into my Countrey, to ſerve an Order of Parlia<g ref="char:EOLhyphen"/>ment upon my adverſaries, <hi>Henry</hi> and <hi>James Pierſon,</hi> Delinquent Attor<g ref="char:EOLhyphen"/>neys at large; whereupon the Commiſſioners of Array caſt me into Priſon, was ſeverall times brought before Sir <hi>Phillip Muſgrave,</hi> one of the Com<g ref="char:EOLhyphen"/>miſſioners of Array, and the Kings chief Commander in Cumberland, and accuſed for one of the Parliaments Intelligencers, and thereupon committed to the cuſtody of the High Conſtable, upon which account, m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Husband had his doors broke open, and his goods to a great value taken away, and my Adverſaries alſo procured ſeverall Watrants to binde us to our good beha<g ref="char:EOLhyphen"/>viour &amp; I was therupon by their means dragged on the Market day through <hi>Cockermouth</hi> ſtreets, and afterwards ſuggeſting that wee diſperſed ſcanda<g ref="char:EOLhyphen"/>lous Pamphlets for the Parliament, apprehended us upon the Sabbath day in
+<pb n="4" facs="tcp:166914:3"/>the Chappel, at the time of publick worſhip, by a Warrant from the afore<g ref="char:EOLhyphen"/>ſaid Commander in chiefe, and the ſaid <hi>James Pierſon</hi> having brought a Cart to the Chappel doore, and commanded all the people in the Kings name to aid and aſſiſt them in carrying us before Sir <hi>Wilfred Lawſon</hi> another of the Commiſſioners of Array, who cauſed us to be cloſe impriſoned and locked up the firſt night, and the next day committed us both to <hi>Carliſle</hi> Goale, and the more to expreſs their cruelty and malice, <hi>Hudſon</hi> another of my Ad<g ref="char:EOLhyphen"/>verſaries, who was then Conſtable, having brought another Cart, they c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<g ref="char:EOLhyphen"/>ſed me to be bound in i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on my b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cke with my face upwards under the hor<g ref="char:EOLhyphen"/>ſes taile, and in a moſt inhumane m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nner, cauſed the horſes to gallop the more to torment me, and under pretence of ſearching for Parliament Papers, ſtripped my Husband to his ſhirt, and me to my ſmock, which they tare in an uncivill manner, and gave direction to lay me in irons, and both my hus<g ref="char:EOLhyphen"/>band and my ſelfe were put amongſt the common Rogues and Thieves: and for pretended charges in carrying us to Priſon, <hi>Hudſon</hi> and the two <hi>Pierſons</hi> ſervants, <hi>Crackplace</hi> &amp; <hi>Leech,</hi> did take from us one Cow, &amp; certain horſe loads of Oats and Oat-meale, by warrant from Sir <hi>Wilfred Lawſon,</hi> for which there is no ſatisfaction made to this day.</p>
+               <p>Moreover, my Adverſaries forced mee to travell to <hi>Oxford</hi> to anſwer a <hi>Subpena</hi> at <hi>Hudſons</hi> ſuit; and arreſted me and my Husband many times upon Writs of priviledge vexatiouſly, and never declared againſt us: Again my Adverſaries cauſed me and my husband to bee indicted ſeven ſeverall times, and ſix times to be bound to the good behaviour, and five times to the Peace, procuring all their Warrants from the Commiſſioners of Array; and vexed our children and ſervants, and day labourers with continuall Warrants, without cauſe in an illegall way; ſo that none durſt worke for us for feare of the two <hi>Pierſons,</hi> who threatened to have them in Goale in a week, if they did worke a day for us; which was the utter undoing of us and our whole Family; and the ſaid two <hi>Pierſons</hi> confederated with <hi>Crack place</hi> and <hi>Leech</hi> their two ſervants, to make falſe and feigned Articles, and ſwear them a<g ref="char:EOLhyphen"/>gainſt mee, to prevent the hearing of my cauſe upon two Writs of errour, and ſo obtained a ſpeciall <hi>Supplicavit</hi> againſt me, and caſt me into New pri<g ref="char:EOLhyphen"/>ſon, where I lay twenty dayes, but when they were examined before the Commiſſioners of the great Seale, they were adjudged frivolous, vexatious, and malicious, and thereupon I was releaſed of my impriſonment, but never had any ſatisfaction to this day: And theſe two <hi>Pierſons</hi> procured unjuſt and illegall Judgements againſt us out of the Upper Bench, and procured the Records to be falſified, as was made appeare before Judge <hi>Bacon</hi> and
+<pb n="5" facs="tcp:166914:3"/>Judge <hi>Rolls</hi> in open Court, by <hi>Affidavit</hi> of Mr. <hi>Benſon,</hi> Clerke in Court, Whereupon the Judgements ſhould have been given in, and the unjuſt At<g ref="char:EOLhyphen"/>torneys put out of the Rolls from ever practiſing more, which the Judges ought to have done; but inſtead thereof put mee off with Writs of Errour, and have delayed me to this day. And in concluſion, my Husband by theſe their cruell uſages became extreame weak and diſeaſed, and never injoyed himſelf, but being bereaved of common ſence, died in a conſuming condi<g ref="char:EOLhyphen"/>tion.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="warrant">
+                           <head>Heere followeth a Copy of the VVarrant.</head>
+                           <opener>
+                              <dateline>Cumb.</dateline>
+                           </opener>
+                           <p>FOraſmuch as we are informd, that <hi>Mary</hi> the Wife of <hi>Henry Blaythwait,</hi> is one that doth not ſtand affected to his Majeſties ſervice, and is ſuſpected to diſperſe ſcandalous Pamphlets. Theſe are therefore to Will and Command you that you take and arreſt the bodies of the ſaid <hi>Henry Blaithwait</hi> and <hi>Mary</hi> his Wife, and them carry before the next Juſtice, to enter into recognizance with good Sureties, not only to appear at the next Seſſions, but alſo not to depart this County without licence of the Commander in chiefe: Whereof faile you not.</p>
+                           <closer>
+                              <dateline>Given under our hands <date>this 19. April, 1644.</date>
+                              </dateline>
+                              <signed>
+                                 <list>
+                                    <item>Philip Muſgrave</item>
+                                    <item>Leo Dykes.</item>
+                                 </list>
+                              </signed>
+                           </closer>
+                           <postscript>
+                              <p>To the Conſtables of <hi>Withop, Se<gap reason="illegible" extent="1 letter">
+                                       <desc>•</desc>
+                                    </gap>kemurther,</hi> and <hi>Embelton,</hi> and if that they ſhall refuſe to become bound as aforeſaid, that then you commit them to the Goale at <hi>Carliſle.</hi>
+                              </p>
+                           </postscript>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>OH that I could come to ſpeak with his Highneſſe, that I might ſay unto him, My Lord Protector, doe juſtice for me a diſtreſſed Widdow and my fatherleſſe Children, leſt when your Wife is a Widdow, and Chil<g ref="char:EOLhyphen"/>dren Fatherleſs, they cry and bee not heard; for (my Lord) the ſame mea<g ref="char:EOLhyphen"/>ſures
+<pb n="6" facs="tcp:166914:4"/>that men meaſure to others ſhall bee meaſured to them againe. O my Lord, I beſeech your Highneſs do me juſtice, leſt the Proverb be verified upon you, He that removeth a ſtone it ſhall fall upon him; and he that breaketh a hedge, a Serpent ſhall bite him.</p>
+               <p>What a ſad thing is it that I have worne out my friends, and my friends friends to get juſtice, having ſpent ſo much, and been burdenſome ſo long by waiting for juſtice, which hath made mee out of patience, and one of my countrey men (Mr. <hi>Muſgrave</hi> by name) to pacifie mee wrote a let<g ref="char:EOLhyphen"/>ter for mee to Major Gene. <hi>Lambert,</hi> and Mr. <hi>Chidley</hi> being of a meek ſpirit, was prevailed with to deliver it and receive his anſwer, which was no way ſatisfactory to mee, which made me to preſs my Lord <hi>Lambert</hi> earneſtly to doe mee juſtice, if not for pitty ſake yet for countrey ſake, who told mee that hee neither would nor could doe any thing for mee, and then I told him that not one Parliament man that came out of our Countrey did good for their countrey; ſo I deſpaired of help.</p>
+               <p>Yet by Mr. <hi>Muſgraves</hi> perſwaſions I went once againe, and meeting Mr. <hi>Chidley</hi> at the Counſell entreated him to do me the favour as to ſpeak once more to my Lord <hi>Lambert</hi> about mee, who was not willing, but after he ſpake to Mr. <hi>Muſgrave</hi> and had information from him of the opinion of Pr. <hi>Bradſhaw,</hi> how that I could not have remedy by Law, went to my Lord <hi>Lamberts</hi> lodgings in White Hall to informe his Lordſhip, but comming importunately to ſpeake for me as one who would have no nay but would ſpeak with that <hi>great man,</hi> was for his peremptorineſs, &amp; malipertneſs thruſt out and threatned to be ſaid by the heeles.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <head>Heere followeth a Copy of Mr. <hi>Muſgraves</hi> Letter.</head>
+                     <opener>
+                        <salute>SIR:</salute>
+                     </opener>
+                     <p>VVHen I look upon the Lord Protectors Oath for governing the Na<g ref="char:EOLhyphen"/>tion according to the form of Government preſcribed, and his pro<g ref="char:EOLhyphen"/>miſed with an oath to adminiſter juſtice and Law equally, and conſider how wee can have no acceſſe unto him to preſent either private or publick grie<g ref="char:EOLhyphen"/>vances
+<pb n="6" facs="tcp:166914:4"/>and abuſes, ſo as poore people are waſted and ſpent out with fruitleſſe attendance, I nothing can admire at the univerſall diſcontents and murmurings of the people, with the highneſſe of the enemies Spirits, who wait for a change, and whom no favours or preferments will bring over to you, there is an eſtabliſhed Law, that none that have been in actuall armes againſt the Parliament ſhall bear any Office of truſt or power in this Com<g ref="char:EOLhyphen"/>mon wealth; yet I am told that you not long ſince ſent down a Commiſſion to your Brother <hi>Liſters</hi> Brother in Law (for one Cavaleer would bring in one another) a compounded Delinquent to be a Juſtice of Peace, but upon Pruite of the Scots increaſing, hee declined to take the oath of a Iuſtice of beace. I know a Delinquent Juſtice, an enemy to all honeſt men, diſabled; and fined for executing that office, again put in Co<g ref="char:cmbAbbrStroke">̄</g>miſſion by the Lord Protector contrary to his oath. While the former Parliament was low in their owne eyes, obſerved their Oaths, their Ingagemnets; God bleſſed them, and gave up their Enemies unto them; but when they ſlighted their Declarations, Oaths, and Promiſes, thinking by pollicy to eſtabliſh themſelves, and ſtand by their owne ſtrength, God ſtirred up their owne Servants to riſe againſt them, and lay them aſide with contempt. And if the Lord Protector walke in their paths, let him not think to be eſtabliſhed, but expect the Lord will raiſe an Adverſary unto him ſtronger then him, and his Oath will be requi<g ref="char:EOLhyphen"/>red at his hand. Captain <hi>Howard</hi> upon the recommendation of Sir <hi>Patri<g ref="char:EOLhyphen"/>cius Curwen,</hi> a Colonel for the late King, in few days procured one <hi>Harberts</hi> Petition to be read, and got him reparation for the loſſe of his Boat, which <hi>Harbert</hi> is a notorious Delinquent, otherwiſe I believe Captaine <hi>Howard</hi> would not have appeared for him: This poore woman hath attended eigh<g ref="char:EOLhyphen"/>teen weekes for the reading of a Petition, and not yet read, nor like to bee, unleſſe by your means, if the Lord Protector thus diſregard his oath, the poor and oppreſſed, promote Cavaleers and his enemies, and thus let them paſſe, without giving account for their rapines and barbarous uſages of your diſtreſſed friends, what may wee expect the end will bee? Read the Wid<g ref="char:EOLhyphen"/>dowes Papers, and if ſuch as ſhe complaines of ſhall paſſe without account, or be fit to govern us, tell us, and we ſhall forbear to trouble you. Captain <hi>Howard</hi> told the woman ſhe would fare worſe for my ſake: I never had penny of her, what I doe is for her ſufferings and the juſtneſs of her cauſe; Preſident <hi>Bradſhaw</hi> can inform you of her, if you ask him. I am perſwaded if the Lord Protector do her not juſtice, the high Protector that rules Heaven and Earth will lay both you and him aſide, as hee hath done to Kings and Parliaments, and ſet up others in your ſteads, that will regard an Oath and
+<pb n="8" facs="tcp:166914:5"/>his fear; but I hope better things of you, and ſhall pray that God may guide and direct you with his holy Spirit, to walk in his feare, and to help the di<g ref="char:EOLhyphen"/>ſtreſſed. Sir, I am as I write,</p>
+                     <closer>
+                        <signed>Your Servant for the Truth, <hi>Jo. Muſgrave.</hi>
+                        </signed>
+                        <dateline>
+                           <date>19. May 1654.</date>
+                        </dateline>
+                     </closer>
+                     <trailer>For the Honorable, Major Generall <hi>Lambert,</hi> one of His Highneſſe Councell, preſent.</trailer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="petitioner_to_the_reader">
+               <head>A word to the Reader.</head>
+               <p>IF any man ſhall blame me a poor diſtreſſed VVid<g ref="char:EOLhyphen"/>dow for ſoliciting His Highneſs, and Petitioning the Parliament, let them know that my oppreſſions are ſo great and ſo inſufferable, that I cannot doe leſſe then crave for juſtice, from which I have beene ſo long detained.</p>
+               <closer>
+                  <signed>
+                     <hi>Mary Blaithwait,</hi> VViddow.</signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
